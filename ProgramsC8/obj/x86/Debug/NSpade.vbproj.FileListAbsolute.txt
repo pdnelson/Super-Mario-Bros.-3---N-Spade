@@ -1,0 +1,9 @@
+G:\Documents\Random Files\programs and stuff taht I made\SMB3 N-spade\ProgramsC8\obj\x86\Debug\ProgramsC8.frmSMB3.resources
+G:\Documents\Random Files\programs and stuff taht I made\SMB3 N-spade\ProgramsC8\obj\x86\Debug\ProgramsC8.Resources.resources
+G:\Documents\Random Files\programs and stuff taht I made\SMB3 N-spade\ProgramsC8\obj\x86\Debug\NSpade.vbproj.GenerateResource.Cache
+G:\Documents\Random Files\programs and stuff taht I made\SMB3 N-spade\ProgramsC8\obj\x86\Debug\ProgramsC8.exe
+G:\Documents\Random Files\programs and stuff taht I made\SMB3 N-spade\ProgramsC8\obj\x86\Debug\ProgramsC8.xml
+G:\Documents\Random Files\programs and stuff taht I made\SMB3 N-spade\ProgramsC8\obj\x86\Debug\ProgramsC8.pdb
+G:\Documents\Random Files\programs and stuff taht I made\SMB3 N-spade\ProgramsC8\bin\Debug\ProgramsC8.exe
+G:\Documents\Random Files\programs and stuff taht I made\SMB3 N-spade\ProgramsC8\bin\Debug\ProgramsC8.pdb
+G:\Documents\Random Files\programs and stuff taht I made\SMB3 N-spade\ProgramsC8\bin\Debug\ProgramsC8.xml
